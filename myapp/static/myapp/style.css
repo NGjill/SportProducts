@@ -1,0 +1,70 @@
+.hbar1 {
+display: inline;
+margin: 15px;
+}
+
+h1{
+    background-color: skyblue;
+    color: brown;
+    font-size: medium;
+    font-style: oblique;
+    position: center;
+}
+
+body{
+    padding: 20px;
+    background-color: aliceblue;
+    color: crimson;
+}
+
+
+
+
+
+/*.hbar1 {*/
+/*display: inline;*/
+/*margin: 15px;*/
+/*}*/
+
+/*h1{*/
+/*    background-color: aquamarine;*/
+/*    color: brown;*/
+/*    font-size: medium;*/
+/*    font-style: oblique;*/
+/*    position: center;*/
+/*}*/
+
+/*body{*/
+/*    background-color: chartreuse;*/
+/*    color: crimson;*/
+/*}*/
+
+
+
+
+
+
+
+
+
+
+
+
+/*.hbar1 {*/
+/* display: inline;*/
+/* margin: 15px;*/
+/*}*/
+/*h1{*/
+/*    display: block;*/
+/*    font-size: 2em;*/
+/*    margin-top: 0.67em;*/
+/*    margin-bottom: 0.67em;*/
+/*    margin-left: 0;*/
+/*    margin-right: 0;*/
+/*    font-weight: bold;*/
+/*    color: red;*/
+/*}*/
+/*p{*/
+/*    color:blue;*/
+/*}*/
+
